@@ -1,0 +1,13 @@
+{
+  "name": "subir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cgambau/subir.git",
+  "author": "cgambau <carlosgambau@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+}
+}
